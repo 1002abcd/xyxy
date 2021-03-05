@@ -1,0 +1,58 @@
+<html>
+<head>
+      <title>Drugs</title>
+<head>
+<body bgcolor="gray">
+<center><img src="C:\Users\ACER\Downloads\116037845_653242291957184_1052462071034194321_n (2).jpg"width="900" height="400">
+<font color="white"><h1><center> DRUGS </h1>
+<p> <center> by Group 6 </font>
+<pre> <center>
+
+<font color="white"><b><font face="times new roman"> Drugs influence the functioning of your body and mind; they can alter how you feel, perceive and act.
+People use drugs for a number of purposes and in a variety of ways. 
+Learn about the distinctions between legal and illegal drugs.</b>
+
+<align left><h2> WHY ARE MEDICATIONS USED BY PEOPLE </h2><align left>
+
+
+<b>•Drugs affect the way your body and brain work.
+•People use medications for a number of reasons. 
+•They are curious and want to see what happens they want to fit in or feel pressured by their peers that 
+they appreciate the impact on their body, such as feeling excited and enthusiastic or comfortable and calm, helping 
+them cope with circumstances, such as reducing pain or relieving stress that they have a drug dependence 
+and need to continue taking them to prevent withdrawal symptoms.<b>
+
+
+<h2> HOW ARE MEDICINES MADE? </h2><h2> DRUGS COME FROM NUMEROUS SOURCES: </h2>
+<b>Plants, such as hemp, mushrooms or plant products processed from tobacco,such as alcohol 
+or heroin,Synthetic drugs, ecstasy or amphetamines.</b>
+
+<h2>DRUGS ARE MANUFACTURED IN A NUMBER OF WAYS,BUT
+THERE ARE TWO PRIMARY TYPES OF INGREDIENTS IN DRUG PRODUCT:</h2>
+
+<b>In general, active ingredients, the ingredients that biologically influence the inactive 
+ingredients of the body, have no biological effect.
+
+Binding agents, tablets, dyes, preservatives, flavourings and other materials are included.</b>
+
+<h3> <b> SOURCE </b> </font> </h3>
+
+https://www.health.gov.au/health-topics/drugs/about-drugs/what-are-drugs
+
+<h1><font face="times new roman">SOME WORKS PREPARED BY THE STUDENTS<h1></font>
+<img src="C:\Users\ACER\Downloads\155478404_1696136753922904_730239753031386111_n (1).jpg" width="700" heigth="80">
+
+<img src="C:\Users\ACER\Downloads\157179374_482569906075140_797032760210223434_n (1).jpg" width="700" heigth="80">
+
+
+<center><video width="800" height="300" controls>
+  <source src="file:///C:/Users/ACER/Downloads/video-1614598123.mp4" type="video>
+</video>
+
+</center>
+</font>
+</align left>
+</center>
+
+<body>
+</html>
